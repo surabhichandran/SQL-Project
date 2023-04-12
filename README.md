@@ -8,4 +8,5 @@ COVID-19 DataSet: Data Exploration
 Review the [SQL Script](https://github.com/surabhichandran/SQL-Project/edit/main/Data-Exploration_SQL.sql)
 
 PostgreSQL: 
-Business Intelligence Challenge [PostgreSQL Script](https://github.com/surabhichandran/SQL-Project/blob/main/BI-Challange-PostgreSQL)
+Business Intelligence Challenge [PostgreSQL Script](https://github.com/surabhichandran/SQL-Project/blob/main/BI-Challange-PostgreSQL), 
+[Data Visualizations](https://github.com/surabhichandran/SQL-Project/blob/main/BI-Challenge Presentation.docx)
