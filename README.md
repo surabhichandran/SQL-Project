@@ -9,4 +9,4 @@ Review the [SQL Script](https://github.com/surabhichandran/SQL-Project/edit/main
 
 PostgreSQL: 
 Business Intelligence Challenge [PostgreSQL Script](https://github.com/surabhichandran/SQL-Project/blob/main/BI-Challange-PostgreSQL), 
-[Data Visualizations](https://github.com/surabhichandran/SQL-Project/blob/main/BI-Challenge Presentation.docx)
+[Data Visualizations](https://github.com/surabhichandran/SQL-Project/blob/main/BI-Challenge-Presentation.docx)
